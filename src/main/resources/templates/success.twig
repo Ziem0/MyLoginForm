@@ -1,0 +1,11 @@
+{% extends "template.twig" %}
+
+{% block content %}
+
+    <div class="success">
+        <h1>You have created your own account !</h1>
+        <h2>Now you can log in</h2>
+        <button onclick="window.open('/logout', '_parent')">LOG IN !</button>
+    </div>
+
+{% endblock content %}

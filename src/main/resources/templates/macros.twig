@@ -1,0 +1,9 @@
+{% macro inputs (id, name, placeholder) %}
+    <input id="{{ id }}" type="text" name="{{ name }}" placeholder="{{ placeholder }}" required />
+{% endmacro %}
+
+{% macro intro (h2,h3,h4) %}
+    <h2>{{ h2 }}</h2>
+    <h3>{{ h3 }}</h3>
+    <h4>{{ h4 }}</h4>
+{% endmacro %}

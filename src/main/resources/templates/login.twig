@@ -1,0 +1,25 @@
+{% extends "template.twig" %}
+{% import "macros.twig" as forms %}
+
+{% block content %}
+
+    <div class="intro">
+        {{ forms.intro("This is the most unique LoginForm","Just LogIn and..", "That's it !") }}
+    </div>
+
+    <div class="container">
+        {{ message }}
+        <br>
+        <form method="post">
+            <label for="login">Login: </label>
+            {{ forms.inputs('login','login','enter login') }}
+            <label for="password">Password: </label>
+            {{ forms.inputs('password','password','enter password') }}
+            <input class="submit" name="submit" value="LOG IN!" type="submit">
+        </form>
+        <br>
+        <h5>If you don't have your own account, please registry --> <a href="/registry">HERE</a></h5>
+    </div>
+
+{% endblock content %}
+

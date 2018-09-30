@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% include "header.twig" %}
+</head>
+<body>
+
+    <div class="nav">
+        <h4>demo NaviBar</h4>
+        <ul>
+            <li><a href="/login">home</a></li>
+            <li><a href="/registry">registry</a></li>
+            <li><a href="/logout">log out</a></li>
+        </ul>
+    </div>
+
+    {% block content %} {% endblock content %}
+
+    <div class="footer">
+        <h4>&copy; Ziemo Company 2018</h4>
+    </div>
+</body>
+</html>

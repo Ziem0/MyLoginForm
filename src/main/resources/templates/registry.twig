@@ -1,0 +1,26 @@
+{% extends "template.twig" %}
+{% import "macros.twig" as forms %}
+
+{% block content %}
+
+    <div class="intro">
+        {{ forms.intro('It\'s time to create your own account!', 'Just choose login and password', 'Both password should be the same!') }}
+    </div>
+
+    <div class="container">
+        {{ message }}
+        <br>
+        <form method="post">
+            <label for="login">Login:</label>
+                {{ forms.inputs('login','login','enter login') }}
+            <label for="password">Password:</label>
+                {{ forms.inputs('password','password','enter password') }}
+            <label for="password2">Confirm password: </label>
+            {{ forms.inputs('password2','password2','confirm password') }}
+            <input class="submit" name="submit" value="LOG IN!" type="submit">
+        </form>
+        <br>
+        <h5>Take me back<a href="/login"><--</a></h5>
+    </div>
+
+{% endblock content %}

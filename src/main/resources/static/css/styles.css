@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Notable');
+
+* {
+    font-family: 'Notable', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 10px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #dcdcdc;
+}
+
+.nav ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.nav ul li {
+    text-decoration: none;
+}
+
+.nav ul li a {
+    text-decoration: none;
+}
+
+.nav ul li:hover {
+    border: 2px solid black;
+    padding: 5px;
+    background: cornflowerblue;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background: #e9967a;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*margin: 200px;*/
+}
+
+.welcome, .success {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*margin: 200px;*/
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.intro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

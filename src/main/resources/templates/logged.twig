@@ -1,0 +1,10 @@
+{% extends "template.twig" %}
+
+{% block content %}
+
+    <div class="welcome">
+        <h1>Welcome on my web server {{ name }} !</h1>
+        <button onclick="window.open('/logout', '_parent')">LOG OUT !</button>
+    </div>
+
+{% endblock content %}
