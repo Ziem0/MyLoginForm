@@ -38,7 +38,6 @@ public class WebDisplay {
 		JtwigTemplate template = JtwigTemplate.classpathTemplate("templates/logged.twig");
 		JtwigModel model = JtwigModel.newModel();
 
-		String message = prepareStatus(name);
 		model.with("name",name);
 
 		return template.render(model);

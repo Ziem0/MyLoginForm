@@ -34,7 +34,6 @@ public class ConnectDB {
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
-
 	}
 
 	private static void migrate() {
