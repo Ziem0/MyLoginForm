@@ -4,6 +4,7 @@ import com.sun.net.httpserver.HttpServer;
 import com.ziemo.login.dao.SessionDao;
 import com.ziemo.login.model.Server;
 import com.ziemo.login.view.WebDisplay;
+import lombok.extern.slf4j.Slf4j;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

@@ -39,6 +39,7 @@ public class ConnectDB {
 	private static void migrate() {
 		Flyway fw = new Flyway();
 		fw.setDataSource(DB_URL, "none", "none");
+
 		fw.migrate();
 	}
 

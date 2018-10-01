@@ -1,8 +1,10 @@
 package com.ziemo.login.view;
 
+import lombok.extern.slf4j.Slf4j;
 import org.jtwig.JtwigModel;
 import org.jtwig.JtwigTemplate;
 
+@Slf4j
 public class WebDisplay {
 
 	public String createLoginPage(String status) {
@@ -13,7 +15,7 @@ public class WebDisplay {
 			String message = prepareStatus(status);
 			model.with("message", message);
 		}
-
+		log.info("Login page created");
 		return template.render(model);
 	}
 

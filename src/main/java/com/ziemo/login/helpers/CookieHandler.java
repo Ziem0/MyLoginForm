@@ -1,12 +1,14 @@
 package com.ziemo.login.helpers;
 
 import com.sun.net.httpserver.HttpExchange;
+import lombok.extern.slf4j.Slf4j;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.HashMap;
 import java.util.Map;
 
+@Slf4j
 public class CookieHandler {
 
 	public static String getSessionId(HttpExchange exchange) {
@@ -85,6 +87,7 @@ public class CookieHandler {
 	public static void clearCookie(HttpExchange exchange) {
 		exchange.getResponseHeaders().add("Set-Cookie", "sessionId=");
 		exchange.getResponseHeaders().add("Set-Cookie", "sessionStatus=");
+		log.info("cookie info is clear");
 	}
 
 }

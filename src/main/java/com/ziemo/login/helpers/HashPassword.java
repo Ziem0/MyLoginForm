@@ -25,9 +25,4 @@ public class HashPassword {
 		return DigestUtils.sha256Hex(password + pepper);
 	}
 
-//	public static void main(String[] args) {
-//		String pepper = getPepper();
-//		System.out.println(pepper);
-//		System.out.println(hashInput("123", pepper));
-//	}
 }
