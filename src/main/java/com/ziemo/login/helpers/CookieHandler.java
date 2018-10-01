@@ -13,13 +13,9 @@ public class CookieHandler {
 
 		String cookie = exchange.getRequestHeaders().getFirst("Cookie");
 
-		System.out.println(cookie);
-
 		if (cookie != null) {
 			cookie = parseCookie(cookie).get("sessionId");
 		}
-
-		System.out.println(cookie);
 
 		return cookie;
 	}
@@ -28,7 +24,7 @@ public class CookieHandler {
 
 		Map<String, String> values = new HashMap<>();
 
-		String[] pairs = cookie.split("; ");
+		String[] pairs = cookie.split("; ");                                //watch out!
 
 		for (String pair : pairs) {
 			String[] keyValue = pair.split("=");
@@ -67,7 +63,7 @@ public class CookieHandler {
 	private static String createExpireString() {
 		StringBuilder expireString = new StringBuilder("; expire=");
 
-//		String date = LocalDateTime.MAX.format(DateTimeFormatter.ISO_DATE_TIME); generalnie nie jest potrzebne
+//		String date = LocalDateTime.MAX.format(DateTimeFormatter.ISO_DATE_TIME); not used here ; expire is retrieved with database
 		String date = LocalDateTime.now().plusMinutes(1).format(DateTimeFormatter.ISO_DATE_TIME);
 		expireString.append(date);
 

@@ -38,10 +38,4 @@ public class RegisterController extends HttpController {
 		}
 	}
 
-
-	/*
-	public void addUser(String login, String password) {
-	matching passwords
-
-	 */
 }

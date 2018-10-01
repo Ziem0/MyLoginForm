@@ -99,7 +99,7 @@ public class LoginController extends HttpController {
 		} else if (statusHttp.equalsIgnoreCase("loggedOut")) {
 			result = "loggedOut";
 		} else {
-			if (active) {               //loggedIn should be
+			if (active) {
 				result = "active";
 			} else {
 				result = "expired";
