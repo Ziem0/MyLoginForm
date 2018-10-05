@@ -5,33 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b2c696b-c2ca-4632-8991-efe31d4ed1f6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_8_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_22_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_2_22_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ziemo/login/SetLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/SessionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myLoginForm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/myLoginForm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ziemo/login/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ziemo/login/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ziemo/login/dao/ConnectDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ziemo/login/dao/ConnectDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ziemo/login/helpers/CookieHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ziemo/login/helpers/CookieHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ziemo/login/helpers/HashPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ziemo/login/helpers/HashPassword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ziemo/login/model/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ziemo/login/model/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ziemo/login/model/Session.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ziemo/login/model/Session.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ziemo/login/view/WebDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ziemo/login/view/WebDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db/data.db" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/data.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ziemo/login/SetLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ziemo/login/SetLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ziemo/login/controller/HttpController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ziemo/login/controller/HttpController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,41 +22,33 @@
     <SUITE FILE_PATH="coverage/myLoginForm$SessionTest_name.ic" NAME="SessionTest.name Coverage Results" MODIFIED="1538406320672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.30769232">
+    <splitter split-orientation="vertical" split-proportion="0.35854343">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/App.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="48">
-                  <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-                </state>
-              </provider>
+              <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
-          <file leaf-file-name="Server.java" pinned="false" current-in-tab="false">
+          <file leaf-file-name="Server.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/model/Server.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="107">
-                  <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+                <state relative-caret-position="75">
+                  <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
                 </state>
               </provider>
             </entry>
           </file>
           <file leaf-file-name="WebDisplay.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/view/WebDisplay.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="214">
-                  <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-                </state>
-              </provider>
+              <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
           <file leaf-file-name="Session.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/model/Session.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="16">
-                  <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+                <state relative-caret-position="384">
+                  <caret line="27" column="73" selection-start-line="27" selection-start-column="73" selection-end-line="27" selection-end-column="73" />
                 </state>
               </provider>
             </entry>
@@ -88,8 +56,8 @@
           <file leaf-file-name="HashPassword.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/helpers/HashPassword.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="299">
-                  <caret line="23" selection-start-line="23" selection-end-line="23" />
+                <state relative-caret-position="384">
+                  <caret line="28" selection-start-line="28" selection-end-line="28" />
                 </state>
               </provider>
             </entry>
@@ -97,38 +65,22 @@
           <file leaf-file-name="CookieHandler.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/helpers/CookieHandler.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="16">
-                  <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+                <state relative-caret-position="1312">
+                  <caret line="88" selection-start-line="88" selection-end-line="88" />
                 </state>
               </provider>
             </entry>
           </file>
           <file leaf-file-name="SessionTest.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/tests/SessionTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret lean-forward="true" />
-                  <folding>
-                    <element signature="e#965#966#0" expanded="true" />
-                    <element signature="e#978#979#0" expanded="true" />
-                    <element signature="e#1324#1325#0" expanded="true" />
-                    <element signature="e#1346#1347#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
+              <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
           <file leaf-file-name="SetLog.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/SetLog.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret lean-forward="true" />
-                  <folding>
-                    <element signature="method#getLog#0;class#SetLog#0" />
-                    <element signature="method#clearDatabase#0;class#SetLog#0" />
-                    <element signature="method#handleQuery#0;class#SetLog#0" />
-                    <element signature="method#createConnection#0;class#SetLog#0" />
-                  </folding>
+                <state relative-caret-position="384">
+                  <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
                 </state>
               </provider>
             </entry>
@@ -136,10 +88,10 @@
         </leaf>
       </split-first>
       <split-second>
-        <splitter split-orientation="vertical" split-proportion="0.5261438">
+        <splitter split-orientation="horizontal" split-proportion="0.5829694">
           <split-first>
             <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-              <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+              <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/styles.css">
                   <provider selected="true" editor-type-id="text-editor">
                     <state relative-caret-position="48">
@@ -148,11 +100,20 @@
                   </provider>
                 </entry>
               </file>
+              <file leaf-file-name="header.twig" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/main/resources/templates/header.twig">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="64">
+                      <caret line="4" column="68" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
               <file leaf-file-name="template.twig" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/src/main/resources/templates/template.twig">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="171">
-                      <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+                    <state relative-caret-position="320">
+                      <caret line="20" selection-start-line="20" selection-end-line="20" />
                     </state>
                   </provider>
                 </entry>
@@ -160,8 +121,8 @@
               <file leaf-file-name="macros.twig" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/src/main/resources/templates/macros.twig">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="128">
-                      <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+                    <state relative-caret-position="16">
+                      <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
                     </state>
                   </provider>
                 </entry>
@@ -169,8 +130,8 @@
               <file leaf-file-name="login.twig" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.twig">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="155">
-                      <caret line="22" selection-start-line="22" selection-end-line="22" />
+                    <state relative-caret-position="192">
+                      <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
                     </state>
                   </provider>
                 </entry>
@@ -183,8 +144,8 @@
               <file leaf-file-name="registry.twig" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/src/main/resources/templates/registry.twig">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="171">
-                      <caret line="23" selection-start-line="23" selection-end-line="23" />
+                    <state relative-caret-position="304">
+                      <caret line="19" selection-start-line="19" selection-end-line="19" />
                     </state>
                   </provider>
                 </entry>
@@ -192,7 +153,7 @@
               <file leaf-file-name="success.twig" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/src/main/resources/templates/success.twig">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="40">
+                    <state relative-caret-position="128">
                       <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
                     </state>
                   </provider>
@@ -201,8 +162,8 @@
               <file leaf-file-name="ConnectDB.java" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/dao/ConnectDB.java">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="1">
-                      <caret line="41" selection-start-line="41" selection-end-line="41" />
+                    <state relative-caret-position="672">
+                      <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
                       <folding>
                         <element signature="method#close#0;class#ConnectDB#0" />
                       </folding>
@@ -213,8 +174,8 @@
               <file leaf-file-name="SqlDao.java" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/dao/SqlDao.java">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="16">
-                      <caret line="15" selection-start-line="15" selection-end-line="15" />
+                    <state relative-caret-position="1024">
+                      <caret line="73" selection-start-line="73" selection-end-line="73" />
                       <folding>
                         <element signature="e#1461#1462#0" expanded="true" />
                         <element signature="e#1490#1491#0" expanded="true" />
@@ -226,17 +187,17 @@
               <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/dao/UserDao.java">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="79">
-                      <caret line="15" selection-start-line="15" selection-end-line="15" />
+                    <state relative-caret-position="656">
+                      <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
                     </state>
                   </provider>
                 </entry>
               </file>
-              <file leaf-file-name="SessionDao.java" pinned="false" current-in-tab="false">
+              <file leaf-file-name="SessionDao.java" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/dao/SessionDao.java">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="16">
-                      <caret line="23" selection-start-line="23" selection-end-line="23" />
+                    <state relative-caret-position="252">
+                      <caret line="59" selection-start-line="59" selection-end-line="59" />
                     </state>
                   </provider>
                 </entry>
@@ -245,29 +206,25 @@
           </split-first>
           <split-second>
             <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-              <file leaf-file-name="HttpController.java" pinned="false" current-in-tab="true">
+              <file leaf-file-name="HttpController.java" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/controller/HttpController.java">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="290">
-                      <caret line="73" selection-start-line="73" selection-end-line="73" />
+                    <state relative-caret-position="944">
+                      <caret line="72" selection-start-line="72" selection-end-line="72" />
                     </state>
                   </provider>
                 </entry>
               </file>
-              <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
+              <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/controller/LoginController.java">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="-320">
-                      <caret line="38" column="44" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
-                    </state>
-                  </provider>
+                  <provider selected="true" editor-type-id="text-editor" />
                 </entry>
               </file>
               <file leaf-file-name="LogoutController.java" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/controller/LogoutController.java">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="16">
-                      <caret line="1" selection-start-line="1" selection-end-line="1" />
+                    <state relative-caret-position="192">
+                      <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
                     </state>
                   </provider>
                 </entry>
@@ -275,8 +232,8 @@
               <file leaf-file-name="RegisterController.java" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/controller/RegisterController.java">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="146">
-                      <caret line="39" selection-start-line="39" selection-end-line="39" />
+                    <state relative-caret-position="160">
+                      <caret line="12" selection-start-line="12" selection-end-line="12" />
                     </state>
                   </provider>
                 </entry>
@@ -330,12 +287,10 @@
         <option value="$PROJECT_DIR$/src/main/resources/static/css/styles.css" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/logged.twig" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/success.twig" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ziemo/login/controller/HttpController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ziemo/login/dao/SessionDao.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/registry.twig" />
         <option value="$PROJECT_DIR$/src/main/java/com/ziemo/login/dao/SqlDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ziemo/login/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/login.twig" />
         <option value="$PROJECT_DIR$/src/main/java/com/ziemo/login/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ziemo/login/controller/RegisterController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ziemo/login/helpers/HashPassword.java" />
@@ -347,8 +302,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ziemo/login/helpers/CookieHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ziemo/login/view/WebDisplay.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ziemo/login/dao/ConnectDB.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ziemo/login/SetLog.java" />
         <option value="$PROJECT_DIR$/src/tests/SessionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/login.twig" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ziemo/login/controller/HttpController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ziemo/login/SetLog.java" />
       </list>
     </option>
   </component>
@@ -375,7 +332,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="194" />
     <option name="width" value="551" />
     <option name="height" value="563" />
@@ -384,158 +341,17 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="myLoginForm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myLoginForm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myLoginForm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myLoginForm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myLoginForm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myLoginForm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myLoginForm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myLoginForm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myLoginForm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myLoginForm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myLoginForm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myLoginForm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myLoginForm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myLoginForm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myLoginForm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myLoginForm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-              <item name="helpers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myLoginForm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myLoginForm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myLoginForm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myLoginForm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myLoginForm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myLoginForm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myLoginForm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myLoginForm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myLoginForm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myLoginForm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myLoginForm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myLoginForm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myLoginForm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myLoginForm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myLoginForm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myLoginForm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="myLoginForm" type="1abcf292:AndroidViewProjectNode" />
-              <item name="myLoginForm" type="e9137016:NonAndroidModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="/logout&#9;FILE&#9;file:///home/ziemo/codecool/1_java/backend/myLoginForm/src/main/java/com/ziemo/login/controller/LogoutController.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="full.screen.before.presentation.mode" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../redirect/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -725,7 +541,12 @@
       <workItem from="1538139945188" duration="4932000" />
       <workItem from="1538222952577" duration="24128000" />
       <workItem from="1538306667716" duration="26249000" />
-      <workItem from="1538393652616" duration="15727000" />
+      <workItem from="1538393652616" duration="16436000" />
+      <workItem from="1538479353560" duration="6779000" />
+      <workItem from="1538498489010" duration="5456000" />
+      <workItem from="1538568293355" duration="5719000" />
+      <workItem from="1538658979959" duration="1469000" />
+      <workItem from="1538737344616" duration="19000" />
     </task>
     <servers />
   </component>
@@ -762,7 +583,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94083000" />
+    <option name="totallyTimeSpent" value="114234000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -778,36 +599,36 @@
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3296355" />
+      <window_info id="DB Browser" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2670537" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3296355" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19472913" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3296355" />
-      <window_info id="DB Browser" order="2" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3280116" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2670537" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.329429" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3296355" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19472913" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3280116" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.329429" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -946,22 +767,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/header.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/demo.html" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/dmo.twig" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/DemoC.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -969,9 +780,100 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="53">
           <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/success.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/logged.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/registry.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/header.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="68" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/template.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/macros.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/dao/ConnectDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#close#0;class#ConnectDB#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/dao/SqlDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1024">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="e#1461#1462#0" expanded="true" />
+            <element signature="e#1490#1491#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/dao/SessionDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
         </state>
       </provider>
     </entry>
@@ -984,186 +886,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/controller/RegisterController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/controller/LogoutController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-320">
-          <caret line="38" column="44" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/template.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/logged.twig">
+    <entry file="file://$PROJECT_DIR$/src/tests/SessionTest.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/registry.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/App.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/success.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/view/WebDisplay.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/dao/UserDao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/model/Session.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/dao/SessionDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="100" selection-start-line="100" selection-end-line="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/helpers/CookieHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/macros.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/dao/SqlDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#1461#1462#0" expanded="true" />
-            <element signature="e#1490#1491#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/dao/ConnectDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="method#close#0;class#ConnectDB#0" />
-          </folding>
+        <state relative-caret-position="384">
+          <caret line="27" column="73" selection-start-line="27" selection-start-column="73" selection-end-line="27" selection-end-column="73" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/helpers/HashPassword.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="384">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/model/Session.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/controller/RegisterController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        <state relative-caret-position="160">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/SessionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/controller/LogoutController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="e#965#966#0" expanded="true" />
-            <element signature="e#978#979#0" expanded="true" />
-            <element signature="e#1324#1325#0" expanded="true" />
-            <element signature="e#1346#1347#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/SetLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="method#getLog#0;class#SetLog#0" />
-            <element signature="method#clearDatabase#0;class#SetLog#0" />
-            <element signature="method#handleQuery#0;class#SetLog#0" />
-            <element signature="method#createConnection#0;class#SetLog#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/view/WebDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/model/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        <state relative-caret-position="192">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/controller/HttpController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        <state relative-caret-position="944">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/App.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/helpers/CookieHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="1312">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/SetLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ziemo/login/model/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
         </state>
       </provider>
     </entry>

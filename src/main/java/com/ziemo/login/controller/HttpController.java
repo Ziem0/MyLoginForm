@@ -62,7 +62,6 @@ public abstract class HttpController implements HttpHandler {
 	}
 
 	void setExchange(HttpExchange exchange) {
-
 		this.exchange = exchange;
 	}
 

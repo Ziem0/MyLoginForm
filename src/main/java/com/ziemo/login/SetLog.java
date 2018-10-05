@@ -14,8 +14,8 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 public class SetLog {
-	private static Connection connection = null;
 	private static SetLog log = null;
+	private static Connection connection = null;
 	private static final String LOG_URL = "jdbc:sqlite:src/main/resources/db/data4log.db";
 
 	private SetLog() {
